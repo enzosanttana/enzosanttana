@@ -1,4 +1,4 @@
-## Olá, sou o Enzo Santana, um programador Front-End apaixonado por tecnologia.
+## Olá eu sou o Enzo Santana, um programador Front-End apaixonado por tecnologia.
 
 ![Enzo GitHub stats](https://github-readme-stats.vercel.app/api?username=enzosanttana&show_icons=true&theme=radical)
 
@@ -15,6 +15,8 @@
   ##
 
 <div> 
+SOCIAIS:
+
   <a href="https://www.youtube.com/@buenovlr" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/enzosanttanav" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/buennozw" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
